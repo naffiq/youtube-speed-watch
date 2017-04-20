@@ -1,6 +1,10 @@
 YouTube speed watch
 ===================
 
+[![Build Status](https://travis-ci.org/naffiq/youtube-speed-watch.svg?branch=master)](https://travis-ci.org/naffiq/youtube-speed-watch)
+
+[Демо приложения](http://youtube-speed-watch.naffiq.com/)
+
 ## Установка
 
 Склонируйте проект и запустите `npm install` в корне.
