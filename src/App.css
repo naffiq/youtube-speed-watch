@@ -27,6 +27,7 @@
 .form-url input {
   padding: 5px;
   width: 250px;
+  color: #000;
 }
 
 .App-intro {

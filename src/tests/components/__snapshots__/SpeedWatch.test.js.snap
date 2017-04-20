@@ -1,0 +1,64 @@
+exports[`SpeedWatch should render proper time from seconds 1`] = `
+<div>
+  <h2>
+    Time to watch a video at different speeds:
+  </h2>
+  <table
+    className="table">
+    <tbody>
+      <tr>
+        <td>
+          <span
+            className="label label-default">
+            x1
+          </span>
+        </td>
+        <td>
+           
+          20:34
+           
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span
+            className="label label-success">
+            x1.25
+          </span>
+        </td>
+        <td>
+           
+          16:27
+           
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span
+            className="label label-warning">
+            x1.5
+          </span>
+        </td>
+        <td>
+           
+          13:43
+           
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span
+            className="label label-danger">
+            x2
+          </span>
+        </td>
+        <td>
+           
+          10:17
+           
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
