@@ -25,7 +25,7 @@ export default class Time {
   static toSeconds(duration) {
     const parsedDuration = moment.duration(duration);
 
-    const minutes = parsedDuration.minutes() + parsedDuration.hours() * 3600;
+    const minutes = parsedDuration.minutes() + parsedDuration.hours() * 60;
     return parsedDuration.seconds() + minutes * 60;
   }
 };
